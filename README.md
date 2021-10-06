@@ -6,9 +6,9 @@ This repository contains an overview of the numpy.random package in a Jupyter no
 
 ## Quick Steps
 
-You can view the notebook at the following URL:
+You can view the notebook at the following image:
 
-https://nbviewer.jupyter.org/github/orlaith17/MachineLearning-StatisticsProject/blob/main/numpy-random.ipynb
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/orlaith17/MachineLearning-StatisticsProject/blob/main/numpy-random.ipynb)
 
 ## How to run the notebook
 
