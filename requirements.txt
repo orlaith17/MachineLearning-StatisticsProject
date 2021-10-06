@@ -1,0 +1,2 @@
+numpy
+matplotlib==1.2 (note - you dont have to do the versions really...can omit)
